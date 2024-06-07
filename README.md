@@ -24,7 +24,8 @@ Google Earth Engine (GEE) provides a powerful platform for geospatial analysis, 
 **Supervised Machine Learning:**
 Supervised learning involves training a model on labeled data. The model learns to predict the output based on input features.
 
-Example: Land Cover Classification
+Example:Landcover classification.
+
 Here is a supervised classification by using Sentinel-2 for Boalkhali upazila, then exported the classified image, prepared a fine-tuned map.
 *   [GEE LINK](https://code.earthengine.google.com/fb96a27b10431d645647ec1d169a8c98)
 *   [CODE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-8/blob/main/supervised.js)
@@ -34,7 +35,8 @@ Here is a supervised classification by using Sentinel-2 for Boalkhali upazila, t
 **Unsupervised Machine Learning:**
 Unsupervised learning finds patterns or groupings in data without labeled examples.
 
-Example: K-means Clustering for Land Cover Segmentation
+Example: K-means Clustering for Land Cover Segmentation.
+
 Here is an unsupervised classification by using Landsat-9 for Boalkhali upazila,then export the classified image, prepared fine-tuned map.
 *   [GEE LINK](https://code.earthengine.google.com/748c3f3dbf79b384bbf769c7ba0e3e29)
 *   [CODE LINK](https://github.com/Ashik-Abdullah-Chowdhury/Basic-GEE-Practice-8/blob/main/unsupervised.js)
